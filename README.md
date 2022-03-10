@@ -1,1 +1,1 @@
-script to print hello world in C
+Introduction to low level programming using C language

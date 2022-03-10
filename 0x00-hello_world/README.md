@@ -1,1 +1,1 @@
-script to run hello world in C
+First Introduction to C programming and compilation
