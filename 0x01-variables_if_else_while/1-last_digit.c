@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - prints a text according to number
+ * main - prints a text program according to number
  *
- * Return - Always (Success)
+ * Return - returns 0
  */
 int main(void)
 {
