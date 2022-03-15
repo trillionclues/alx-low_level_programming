@@ -1,10 +1,12 @@
+#include <stdio.h>
+#include "main.h"
+
 /**
  * main - prints to string
  * Description: prints _putchar followed by a line
- * Return: 0
+ * Return: Always 0 (Success)
  */
 
-#include <stdio.h>
 int main(void)
 {
 	printf("_putchar");
