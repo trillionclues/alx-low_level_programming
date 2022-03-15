@@ -3,18 +3,17 @@
 
 /**main - Print alphabet in lowercase
  *
- * Description: function that prints the alphabet, in lowercase
+ * Description: function print_alphabet, in lowercase
+ * 
  * Returns: returns void (Success)
  */
 
 void print_alphabet(void)
 {
-	char alpha;
-	
-	for (alpha = 'a'; alpha <= 'z'; alpha++)
+char alpha;
+for (alpha = 'a'; alpha <= 'z'; alpha++)
 {
 _putchar (alpha);
 }
-
 _putchar ('\n');
 }
