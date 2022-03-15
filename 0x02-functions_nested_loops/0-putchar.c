@@ -2,8 +2,9 @@
 #include "main.h"
 
 /**
- * main - prints to string
- * Description: prints _putchar followed by a line
+ * main -  Prints _putchar
+ *
+ * Description: Program to print _putchar
  * Return: Always 0 (Success)
  */
 
@@ -19,5 +20,5 @@ _putchar('a');
 _putchar('r');
 _putchar('\n');
 
-	return (0);
+return (0);
 }
