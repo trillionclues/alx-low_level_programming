@@ -1,7 +1,8 @@
 #include <unistd.h>
 #include "main.h"
 
-/**print_alphabet - Print alphabet in lowercase
+/**
+ * print_alphabet - Print alphabet in lowercase
  *
  * Description: function print_alphabet, in lowercase
  * 
