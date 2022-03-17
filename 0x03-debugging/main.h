@@ -1,7 +1,7 @@
 nes (8 sloc)  241 Bytes
    
-#ifndef main_H
-#define main_H
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdio.h>
 
