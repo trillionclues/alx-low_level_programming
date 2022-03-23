@@ -1,4 +1,4 @@
-<h1> COntinuation of C - More Pointers, Arrays, Strings</h1>
+<h1> Continuation of C - More Pointers, Arrays, Strings</h1>
 <ul>
 <li>Allowed editors: vi, vim, emacs</li>
 <li>All files will be compiled using Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89</li>
