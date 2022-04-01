@@ -1,4 +1,4 @@
-<h1>C - Static libraries</h1>
+<h1>C - Static and dynamic libraries</h1>
 </break>
 
 <p>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</p>
@@ -11,4 +11,4 @@
 <li>...a simple C library suing ranlib</li>
 </ul>
 
-<p>also create an executable script that creates a C library from the commands inside it</p>
+<p>also create an executable script that creates a dynamic C library from the commands inside of it</p>
