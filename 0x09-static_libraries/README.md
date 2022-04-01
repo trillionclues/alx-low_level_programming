@@ -10,3 +10,5 @@
 <li>What is difference between Dynamic and Static library(Static and Dynamic linking)</li>
 <li>...a simple C library suing ranlib</li>
 </ul>
+
+<p>also create an executable script that creates a C library from the commands inside it</p>
