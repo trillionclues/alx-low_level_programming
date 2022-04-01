@@ -5,36 +5,41 @@
 #include <ctype.h>
 
 /**
- * main - program that adds positive numbes
+ * main - program that takes in all positive integer
+ * and returns the sum
  * @argc: positive n arguments
  * @argv: array args
- * Return: sum
+ * Return: 1 if a non-integer is among the passed in arguments, 0 otherwise
  */
 
 int main(int argc, char *argv[])
 {
-	unsigned int i, sum, num;
-	sum = 0;
+	int i, j, length, sum;
+	char *ptr;
 
-	if (argc < 3)
+	if (argc < 2)
+		printf("0\n");
+	else
 	{
-		printf("%d\n", 0);
-		return (0);
-	}
-	while (argc-- && argc > 0)
-	{
-		for (i = 0; argv[argc][i] != '\0'; i++)
+		sum = 0;
+		for (i = 1; i < argc; i++)
 		{
-			if (!(isdigit(argv[argc][i])))
-			{
-				printf("Error\n");
-				return (1);
-			}
-		}
-		num = atoi(argv[argc]);
-		sum += num;
-	}
+			ptr = argv[i];
+			length = strlen(ptr);
 
-	printf("%d\n", sum);
-	return (sum);
+			for (j = 0; j < length; j++)
+			{
+				if (isdigit(*(ptr + j)) == 0)
+				{
+					printf("Error\n");
+					return (1);
+				}
+			}
+
+			sum += atoi(argv[i]);
+		}
+
+		printf("%d\n", sum);
+	}
+	return (0);
 }
