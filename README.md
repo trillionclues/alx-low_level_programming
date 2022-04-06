@@ -1,4 +1,4 @@
-<h1>Low level programming using C language - Variables, Functions, Pointers, Static Libraries and Recursion</h1>
+<h1>Low Level Programming using C - Variables, Functions, Pointers, Static Libraries and Recursion</h1>
 </break>
 
 
