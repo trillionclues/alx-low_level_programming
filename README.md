@@ -1,7 +1,36 @@
-<h1>Introduction to low level programming using C language</h1>
+<h1>Low level programming using C language - Variables, Functions, Pointers, Static Libraries and Recursion</h1>
 </break>
 
-<h2>Learning Objectives</h2>
+
+<p>This repository contains programs written for the low level programming track at ALX, Holberton school. In this projects, I worked with the C langauge and practiced writing program function statements, static and dynamic memory alocation and automating static libraries with C. I learned about loops, prototypes, gcc flags and pointers and header files and how to use them with #include. The specific list of projects is contained as follows:</p>
+
+<ul>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x00-hello_world">0x00 - Hello world</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x01-variables_if_else_while">0x01 - Variables if_else_while statements</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x02-functions_nested_loops">0x02 - Functions and nested loops</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x03-debugging">0x03 - Debugging</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops">0x04 - More functions and nested loops</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings">0x05 - Pointers, arrays and strings</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings">0x06 - More pointers, arrays and strings</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings">0x07 - Even more pointers, arrays and strings</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x08-recursion">0x08 - Recursion</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x09-static_libraries">0x09 - Static libraries</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0A-argc_argv">0x0A - argc(Argument count) and argv(Argument variable)</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0B-malloc_free">0x0B - Malloc and free</a></li>
+</ul>
+
+</break>
+<h2>Author</h2>
+<ul>
+  <li>Excel Nwachukwu<a href="<github.com/trillionclues>"></a></li>
+</ul>
+
+</break>
+
+<h2>Acknowledgemnts</h2>
+<p>All the projects contained in this repository was completed as part of the curriculum for ALX, Holberton School, Cohot 5, 2022. ALX, Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit <a href="https://www.holbertonschool.com/">this link.</a></p>
+
+<!-- <h2>Learning Objectives</h2>
 <p>Some of the objectives and exercises contained in this Repository are for ALX Holberton School Software Engineering Program and are as follows:</p>
 
 <h3>C -Hello Wold</h3>
@@ -121,4 +150,4 @@
 <li>Dynamic memory allocation in C - malloc calloc realloc free</li>
 <li>Why and when use malloc</li>
 <li>How to use valgrind to check for memory leak</li>
-</ul>
+</ul> -->
