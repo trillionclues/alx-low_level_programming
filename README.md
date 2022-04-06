@@ -22,7 +22,7 @@
 </break>
 <h2>Author</h2>
 <ul>
-  <li>Excel Nwachukwu</li><a href="<github.com/trillionclues>"></a>
+  <li>Excel Nwachukwu</li><a href="github.com/trillionclues"></a>
 </ul>
 
 </break>
