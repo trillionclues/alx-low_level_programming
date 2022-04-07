@@ -1,9 +1,27 @@
 #include "main.h"
-#include <stdlib>
 
 /**
- * _calloc - Allocates memory for an array of a certain number
- * of elements each of inputed bytes size
+ * _memset - copy char
+ * @s: string
+ * @b: input
+ * @n: bytes
+ *
+ * Return: string
+ */
+
+char *_memset(char *s, char b, unsigned int n)
+{
+	unsigned int i;
+
+	for (i = 0; i < n; i++)
+	{
+		s[i] = b;
+	}
+	return (s);
+}
+
+/**
+ * _calloc - Allocates memory for an array using malloc
  * @nmemb: number of elements
  * @size: the byte size of an array element
  *
