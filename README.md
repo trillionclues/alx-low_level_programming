@@ -17,6 +17,7 @@
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x09-static_libraries">0x09 - Static libraries</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0A-argc_argv">0x0A - argc(Argument count) and argv(Argument variable)</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0B-malloc_free">0x0B - Malloc and free</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0C-more_malloc_free"> - 0x0C - More malloc and free</a><li>
 </ul>
 
 </break>
