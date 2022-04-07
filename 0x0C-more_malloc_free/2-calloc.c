@@ -31,21 +31,15 @@ char *_memset(char *s, char b, unsigned int n)
 
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
-	void *mem;
-	char *filler;
-	unsigned int index;
+	void *p;
 
 	if (nmemb == 0 || size == 0)
 		return (NULL);
-	mem = malloc(size * nmemb);
+	p = malloc(nmemb * size);
 
-	if (mem == NULL)
+	if (p == NULL)
 		return (NULL);
+	_memset(p, 0, (nmemb * size));
 
-	filler = mem;
-
-	for (index = 0; index < (size * nmemb); index++)
-		filler[index] = '\0';
-
-	return (mem);
+	return (p);
 }
