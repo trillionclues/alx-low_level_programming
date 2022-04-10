@@ -1,6 +1,5 @@
-#ifndef OBJECTS_LIKE_MACROH
-#define OBJECTS_LIKE_MACROH
+#ifndef SIZE
 
 #define SIZE 1024
 
-#endif /*OBJECT_LIKE_MACROH*/
+#endif /*size*/
