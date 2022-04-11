@@ -2,7 +2,7 @@
 </break>
 
 <h2>Learning Objectives</h2>
-<p>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</p>
+<p>At the end of this project, I am expected to be able to explain to anyone, without the help of Google:</p>
 <ul>
 <li>How to use the exit function</li>
 <li>What are the functions calloc and realloc from the standard library and how to use them</li>
