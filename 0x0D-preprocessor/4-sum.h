@@ -2,5 +2,6 @@
 
 #define FILE_SUM
 
-#define SUM(x, y) ((x) +(y))
-#endif /*end FILE_SUM*/
+#define SUM(x, y) ((x) + (y))
+
+#endif
