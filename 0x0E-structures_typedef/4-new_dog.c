@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "main.h"
+#include "dog.h"
 
 /**
  * _copy - make a copy of passed in argument
