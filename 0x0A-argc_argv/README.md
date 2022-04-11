@@ -1,7 +1,7 @@
 <h1>C - argc, argv</h1>
 </br>
 
-<p>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</p>
+<p>At the end of this project, I am expected to be able to explain to anyone, without the help of Google:</p>
 
 <ul>
 <li>How to use arguments passed to your program</li>
