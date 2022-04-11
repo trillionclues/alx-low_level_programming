@@ -1,4 +1,6 @@
 #ifndef FILE_SUM
+
 #define FILE_SUM
-#define SUM(x,y) ((x) +(y))
-#endif /*end SUM_DEF*/
+
+#define SUM(x, y) ((x) +(y))
+#endif /*end FILE_SUM*/
