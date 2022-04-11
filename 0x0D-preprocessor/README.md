@@ -6,7 +6,7 @@
 </break>
 <ul>
   <li><a href="https://alx-intranet.hbtn.io/rltoken/73Xp4zJlc-orfeEzmlYVDg">Understanding C program Compilation Process</a></li>
-  <li><a href="https://alx-intranet.hbtn.io/rltoken/kaqIw352MSJ8xoi1xU09ZA"Object-like Macros</a></li>
+  <li><a href="https://alx-intranet.hbtn.io/rltoken/kaqIw352MSJ8xoi1xU09ZA">Object-like Macros</a></li>
   <li><a href="https://alx-intranet.hbtn.io/rltoken/wcQZzunlgjepxExZFc2ORQ">Macro Arguments</a></li>
   <li>What are macros and how to use them</li>
   <li>What are the most common predefined macros</li>
