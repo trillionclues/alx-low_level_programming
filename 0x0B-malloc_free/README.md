@@ -1,8 +1,8 @@
 <h1>C - malloc, free</h1>
 
-<p>This section is a practice on assigning dynamic and Automatic memory space to files.</p>
+<h2>This section is a practice on assigning dynamic and Automatic memory space to files.<//h2>
 
-<h2>At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</h2>
+<p>At the end of this project, I am expected to be able to explain to anyone, without the help of Google:</p>
 <ul>
 <li>What is the difference between automatic and dynamic allocation in C</li>
 <li>What is malloc and free and how to use them</li>
