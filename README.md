@@ -21,6 +21,7 @@
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0D-preprocessor">0x0D - PreProcessor</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0E-structures_typedef">0x0E - C Structures, typedef</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0F-function_pointers">0x0F - Function pointers</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x10-variadic_functions">0x10 - Variadic functions</a></li>
 </ul>
 
 </break>
