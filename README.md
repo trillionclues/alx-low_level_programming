@@ -20,6 +20,7 @@
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0C-more_malloc_free">0x0C - More malloc and free</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0D-preprocessor">0x0D - PreProcessor</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0E-structures_typedef">0x0E - C Structures, typedef</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0F-function_pointers">0x0F - Function pointers</a></li>
 </ul>
 
 </break>
