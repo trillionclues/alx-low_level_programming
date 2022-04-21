@@ -22,7 +22,7 @@
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0E-structures_typedef">0x0E - C Structures, typedef</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0F-function_pointers">0x0F - Function pointers</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x10-variadic_functions">0x10 - Variadic functions</a></li>
-  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x12-singly_linked_lists">C - Singly linked lists</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x12-singly_linked_lists">0x12 - Singly linked lists</a></li>
 </ul>
 
 </break>
