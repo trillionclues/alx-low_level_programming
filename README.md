@@ -23,6 +23,8 @@
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x0F-function_pointers">0x0F - Function pointers</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x10-variadic_functions">0x10 - Variadic functions</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x12-singly_linked_lists">0x12 - Singly linked lists</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists">0x13 - More singly linked lists</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x14-bit_manipulation">0x14 - Bit Manipulation</a></li>
 </ul>
 
 </break>
