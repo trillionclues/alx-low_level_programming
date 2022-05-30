@@ -28,7 +28,7 @@
 </ul>
 
 </break>
-<h2>Author: (https://github.com/trillionclues)[Excel]</h2>
+<h2>Author:</h2>
 <ul>
   <li><a href="github.com/trillionclues">Excel Nwachukwu</a></li>
 </ul>
