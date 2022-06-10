@@ -4,7 +4,7 @@
  * insert_dnodeint_at_index - inserts new node at given pos
  * @h: header of double linked list
  * @idx: index of the node, starting from 0
- * @n: number
+ * @n: given number
  *
  * Return: address of given node
  */
