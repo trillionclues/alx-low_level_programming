@@ -1,14 +1,14 @@
-# 0x18. C - Dynamic libraries
+<h1>C - Static and dynamic libraries</h1>
+</break>
 
-## Resources
-Read or watch:
+<p>At the end of this project, I am expected to be able to explain to anyone, without the help of Google:</p>
 
-* <a href="https://www.youtube.com/watch?v=eW5he5uFBNM"> What is difference between Dynamic and Static library (Static and Dynamic linking)</a>
-* <a href="https://alx-intranet.hbtn.io/concepts/225"> Technical Writing</a>
+<ul>
+<li>What is a static library, how does it work, how to create one, and how to use it</li>
+<li>Basic usage of ar, ranlib, nm</li>
+<li>Creating A Static “C” Library Using “ar” and “ranlib”</li>
+<li>What is difference between Dynamic and Static library(Static and Dynamic linking)</li>
+<li>...a simple C library suing ranlib</li>
+</ul>
 
-## Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
-* What is a dynamic library, how does it work, how to create one, and how to use it
-* What is the environment variable $LD_LIBRARY_PATH and how to use it
-* What are the differences between static and shared libraries
+<p>also create an executable script that creates a dynamic C library from the commands inside of it</p>
