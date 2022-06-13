@@ -25,6 +25,10 @@
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x12-singly_linked_lists">0x12 - Singly linked lists</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists">0x13 - More singly linked lists</a></li>
   <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x14-bit_manipulation">0x14 - Bit Manipulation</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x15-file_io">0x15 - File I/O<a/></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x17-doubly_linked_lists">0x17 - Doubly Linked lists</a></li>
+  <li><a href="https://github.com/trillionclues/alx-low_level_programming/tree/master/0x18-dynamic_libraries">0x18 - Dynamic Libraries</a></li>
+
 </ul>
 
 </break>
