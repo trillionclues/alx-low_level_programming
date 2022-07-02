@@ -4,6 +4,12 @@ This is a continuation of my mastery of Low level programming in C
 
 Today, I learned about hashing by implementing hash functions and hash tables in C.
 
+## Resources
+* [What is a HashTable Data Structure - Introduction to Hash Tables](https://www.youtube.com/watch?v=MfhjkfocRR0)
+* [Hash Functions](https://en.wikipedia.org/wiki/Hash_function)
+* [Hash Tables](https://en.wikipedia.org/wiki/Hash_table)
+* [PHP Internals Book: Ordered Hash Tables](https://www.phpinternalsbook.com/hashtables/basic_structure.html)
+
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files. Provided by ALX with Holberton School.
